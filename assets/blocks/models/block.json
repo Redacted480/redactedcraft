@@ -1,0 +1,20 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [800, 800],
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"color": 1,
+			"faces": {
+				"north": {"uv": [0, 0, 0.32, 0.32], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0.32, 0.32], "texture": "#missing"},
+				"south": {"uv": [0, 0, 0.32, 0.32], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.32, 0.32], "texture": "#missing"},
+				"up": {"uv": [0, 0, 0.32, 0.32], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0.32, 0.32], "texture": "#missing"}
+			}
+		}
+	]
+}
